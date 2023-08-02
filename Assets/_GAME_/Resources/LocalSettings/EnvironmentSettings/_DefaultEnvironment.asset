@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0735e82ffa9504ea275cd0ed6715a3, type: 3}
+  m_Name: _DefaultEnvironment
+  m_EditorClassIdentifier: 
+  SkyboxIntensity: 1.5
+  SkyboxTopColor: {r: 0.5518868, g: 0.7076924, b: 1, a: 1}
+  SkyboxBottomColor: {r: 1, g: 1, b: 1, a: 1}
+  SkyboxMaterial: {fileID: 2100000, guid: 7166cf9e309f7d849989e1cf75c6cef9, type: 2}
+  FogEnabled: 1
+  FogStart: 75
+  FogEnd: 150
+  FogMode: 1
+  FogColor: {r: 0.7686275, g: 0.8470589, b: 1, a: 1}
+  FogIntensity: 0.05
+  FogMaterial: {fileID: 2100000, guid: a4c9501830f99404d89e24e07ee18bd1, type: 2}
+  MaterialsWithColor: []
+  MaterialsWithTexture: []
+  MaterialsWithNormalTexture: []

@@ -1,0 +1,451 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: movement
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: TCP_Female_Accessories
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_03A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_03B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_03C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_04A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_04B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_04C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_05A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_05B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Bracelet_05C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Choker_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Choker_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Choker_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_03A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_03B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_03C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_04A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_04B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_04C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_05A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_05B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_05C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_06A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_06B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Earrings_06C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_02D
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Glasses_02E
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Headphones_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Headphones_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Headphones_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Headphones_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Headphones_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_02D
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Sunglasses_02E
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_03A
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_03B
+    m_Weight: 0
+  - m_Path: TCP_Female_Accessories/TCP_Female_Watch_03C
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.L/Shin.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.L/Shin.L/Foot.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.L/Shin.L/Foot.L/Toes.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.L/Shin.L/Foot.L/Toes.L/Toes.L_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.R/Shin.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.R/Shin.R/Foot.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.R/Shin.R/Foot.R/Toes.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Quad.R/Shin.R/Foot.R/Toes.R/Toes.R_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Fingers.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Fingers.L/Fingertips.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Fingers.L/Fingertips.L/Fingertips.L_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Thumb.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Thumb.L/Thumb_Tip.L
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.L/Arm.L/Forearm.L/Hand.L/Thumb.L/Thumb_Tip.L/Thumb_Tip.L_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Fingers.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Fingers.R/Fingertips.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Fingers.R/Fingertips.R/Fingertips.R_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Thumb.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Thumb.R/Thumb_Tip.R
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Clavicle.R/Arm.R/Forearm.R/Hand.R/Thumb.R/Thumb_Tip.R/Thumb_Tip.R_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Neck
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Neck/Head
+    m_Weight: 0
+  - m_Path: TCP_Female_Armature/Root/Hips/Spine_01/Spine_02/Spine_03/Neck/Head/Head_end
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_02D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_02E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_03A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_03B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_03C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_03D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_03E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_04A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_04B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_04C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_04D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_04E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_05A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_05B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_05C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_05D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_05E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_06A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_06B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_06C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_06D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_06E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_07A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_07B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_07C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_07D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_07E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_08A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_08B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_08C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_08D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_08E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_09A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_09B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_09C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_09D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_09E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_10A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_10B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_10C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_10D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hairstyles/TCP_Female_Hairstyle_10E
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats/TCP_Female_Hat_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats/TCP_Female_Hat_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats/TCP_Female_Hat_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats/TCP_Female_Hat_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Hats/TCP_Female_Hat_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_01A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_01B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_01C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_01D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_01E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_02A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_02B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_02C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_02D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_02E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_03A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_03B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_03C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_03D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_03E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_04A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_04B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_04C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_04D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_04E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_05A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_05B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_05C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_05D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_05E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_06A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_06B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_06C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_06D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_06E
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_07A
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_07B
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_07C
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_07D
+    m_Weight: 0
+  - m_Path: TCP_Female_Head_07E
+    m_Weight: 0
+  - m_Path: TCP_Female_Pants_11A
+    m_Weight: 0
+  - m_Path: TCP_Female_Pants_11B
+    m_Weight: 0
+  - m_Path: TCP_Female_Pants_11C
+    m_Weight: 0
+  - m_Path: TCP_Female_Pants_11D
+    m_Weight: 0
+  - m_Path: TCP_Female_Pants_11E
+    m_Weight: 0
+  - m_Path: TCP_Female_Shirt_11A
+    m_Weight: 0
+  - m_Path: TCP_Female_Shirt_11B
+    m_Weight: 0
+  - m_Path: TCP_Female_Shirt_11C
+    m_Weight: 0
+  - m_Path: TCP_Female_Shirt_11D
+    m_Weight: 0
+  - m_Path: TCP_Female_Shirt_11E
+    m_Weight: 0
+  - m_Path: TCP_Female_Shoes_11A
+    m_Weight: 0
+  - m_Path: TCP_Female_Shoes_11B
+    m_Weight: 0
+  - m_Path: TCP_Female_Shoes_11C
+    m_Weight: 0
+  - m_Path: TCP_Female_Shoes_11D
+    m_Weight: 0
+  - m_Path: TCP_Female_Shoes_11E
+    m_Weight: 0
+  - m_Path: TCP_Female_Skin_11A
+    m_Weight: 0
+  - m_Path: TCP_Female_Skin_11B
+    m_Weight: 0
+  - m_Path: TCP_Female_Skin_11C
+    m_Weight: 0
+  - m_Path: TCP_Female_Skin_11D
+    m_Weight: 0
+  - m_Path: TCP_Female_Skin_11E
+    m_Weight: 0

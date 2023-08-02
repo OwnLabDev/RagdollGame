@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28f910d173995e44ab9e45f426d695d5, type: 3}
+  m_Name: PlayerCameraSettings
+  m_EditorClassIdentifier: 
+  UseCameraShake: 0
+  SkakeAmplitude:
+    _randomize: 0
+    _customValue: 5
+    _minMaxValue:
+      _minValue: -5
+      _maxValue: 5
+  ShakeFrequence:
+    _randomize: 0
+    _customValue: 1
+    _minMaxValue:
+      _minValue: -1
+      _maxValue: 1
+  ShakeDuration:
+    _randomize: 0
+    _customValue: 0.5
+    _minMaxValue:
+      _minValue: -0.5
+      _maxValue: 0.5
+  UseCameraZoom: 0
+  CameraZoom: 5
+  CameraZoomDuration: 1

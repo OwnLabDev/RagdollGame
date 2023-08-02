@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b134e04ec97a545a3cb870d76998ec, type: 3}
+  m_Name: _PlayerSettings
+  m_EditorClassIdentifier: 
+  UISettings: {fileID: 11400000, guid: 4f79bedd43ce2404ea84b3c3356bd99e, type: 2}
+  FXSettings: {fileID: 11400000, guid: 267859f1fd82f0c4bace848cf4645f6a, type: 2}
+  InputSettings: {fileID: 11400000, guid: dc18f63c6065cef49ae3c9e0d821d4f7, type: 2}
+  StateSettings: {fileID: 11400000, guid: 273a28beca3b44946bebc72fc94d01bf, type: 2}
+  CameraSettings: {fileID: 11400000, guid: 2aa5aebe553566841afd532dba4a4707, type: 2}
+  RagdollSettings: {fileID: 11400000, guid: 653e87c16495bdd4eb6f15bcdfc78599, type: 2}
+  SlowMotionSettings: {fileID: 11400000, guid: 909876790232baa429e972c43d597525, type: 2}
